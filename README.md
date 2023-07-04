@@ -4,4 +4,3 @@ This is the 100% working OpenCore EFI for Dell 3070 MFF with Two Displays!
 
 It will be updated continuously！
 
-support 13.3.1
